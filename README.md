@@ -139,7 +139,7 @@ open index.html
 index.html   # The entire universe lives here
 ```
 
----
+
 
 ## 🌍 Live Demo
 
